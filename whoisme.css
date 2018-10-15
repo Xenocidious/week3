@@ -1,0 +1,307 @@
+*{
+	padding:0px;
+}
+
+body{
+	background-image:url("images/mountain.jpg");
+	background-size:cover;
+}
+
+h1{
+	color:grey;
+}
+
+p{
+	font-size:35px;
+}
+
+a:link,a:visited{
+	color:white;
+}
+a:hover{
+	color:black;	
+}
+
+
+ul{
+	text-align:center;
+	font-size:35px;
+}
+
+nav ul li{
+	display:inline-block;
+}
+
+nav ul li a{
+	text-decoration:none;
+}
+nav{
+	margin:0 auto;
+	background-color:rgba(0,0,0,0.6);
+	border-radius: 50px;
+	width:575px;
+}
+
+.dot {
+    height:20px;
+    width:20px;
+    background-color:#bbb;
+    border-radius:30%;
+    display:inline-block;
+}
+
+#center-div,#centerdiv,#center--div {
+	  margin:0px;
+	  position:absolute;
+    border-radius:25px;
+    background:#bbb;
+    padding:10px; 
+    width:150px;
+    height:25px; 
+    text-align:center;
+    justify-content:center;
+    font-size:20px;
+}
+
+#hobbys {
+	  margin:0px;
+	  position:absolute;
+    border-radius:25px;
+    background:	#000000;
+    padding:10px; 
+    width:150px;
+    height:25px; 
+    text-align:center;
+    justify-content:center;
+    right:50%;
+    font-size:20px;
+    color:white;
+    margin:auto;
+    top:0;
+    bottom:65%;
+    left:0;
+    border-radius:25px;
+}
+
+#hobbys2 {
+	  margin:0px;
+	  position:absolute;
+    border-radius:25px;
+    background:#bbb;
+    padding:10px; 
+    width:300px;
+    height:60px; 
+    text-align:left ;
+    justify-content:center;
+    right:69.5%;
+    bottom:67%;
+}
+
+#hobbys2 {
+    margin:0px;
+    position:absolute;
+    border-radius:25px;
+    background:#bbb;
+    padding:10px; 
+    width:300px;
+    height:60px; 
+    text-align:left ;
+    justify-content:center;
+    right:69.5%;
+    bottom:67%;
+}
+
+#hobbys2 {
+    margin:0px;
+    position:absolute;
+    border-radius:25px;
+    background:#bbb;
+    padding:10px; 
+    width:300px;
+    height:60px; 
+    text-align:left ;
+    justify-content:center;
+    right:69.5%;
+    bottom:67%;
+}
+
+#hobbys3 {
+    margin:0px;
+    position:absolute;
+    border-radius:25px;
+    background:#bbb;
+    padding:10px; 
+    width:300px;
+    height:40px; 
+    text-align:left ;
+    justify-content:center;
+    right:69.5%;
+    bottom:57%;
+}
+
+#center-div
+{
+    position:absolute;
+    margin:auto;
+    top:0;
+    right:0;
+    bottom:65%;
+    left:0;
+    border-radius:25px;
+}
+
+#centerdiv
+{
+    position:absolute;
+    margin:auto;
+    top:0;
+    right:0;
+    bottom:65%;
+    left:0;
+    border-radius:25px;
+}
+
+#center--div
+{
+    position:absolute;
+    margin:auto;
+    top:0;
+    right:0;
+    bottom:65%;
+    left:0;
+    border-radius:25px;
+}
+
+#sport {
+    margin:0px;
+    position:absolute;
+    border-radius:25px;
+    background: #000000;
+    padding:10px; 
+    width:150px;
+    height:25px; 
+    text-align:center;
+    justify-content:center;
+    left:70%;
+    font-size:20px;
+    color:white;
+}
+
+#sport2 {
+    margin:0px;
+    position:absolute;
+    border-radius:25px;
+    background:#bbb;
+    padding:10px; 
+    width:300px;
+    height:40px; 
+    text-align:left ;
+    justify-content:center;
+    left:70%;
+    bottom:70%;
+}
+
+#motivatie {
+    margin:0px;
+    position:absolute;
+    border-radius:25px;
+    background: #000000;
+    padding:10px; 
+    width:150px;
+    height:25px; 
+    text-align:center;
+    justify-content:center;
+    right:69.5%;
+    font-size:20px;
+    color:white;
+}
+
+#motivatie2 {
+    margin:0px;
+    position:absolute;
+    border-radius:25px;
+    background:#bbb;
+    padding:10px; 
+    width:300px;
+    height:60px; 
+    text-align:left ;
+    justify-content:center;
+    right:69.5%;
+    bottom:67%;
+}
+
+#motivatie3 {
+    margin:0px;
+    position:absolute;
+    border-radius:25px;
+    background:#bbb;
+    padding:10px; 
+    width:300px;
+    height:60px; 
+    text-align:left ;
+    justify-content:center;
+    right:69.5%;
+    bottom:54%;
+}
+
+#motivatie4 {
+    margin:0px;
+    position:absolute;
+    border-radius:25px;
+    background:#bbb;
+    padding:10px; 
+    width:300px;
+    height:60px; 
+    text-align:left ;
+    justify-content:center;
+    right:69.5%;
+    bottom:41%;
+}
+
+#vooropleiding {
+    margin:0px;
+    position:absolute;
+    border-radius:25px;
+    background: #000000;
+    padding:10px; 
+    width:150px;
+    height:25px; 
+    text-align:center;
+    justify-content:center;
+    left:70%;
+    font-size:20px;
+    color:white;
+}
+
+#vooropleiding2 {
+    margin:0px;
+    position:absolute;
+    border-radius:25px;
+    background:#bbb;
+    padding:10px; 
+    width:300px;
+    height:40px; 
+    text-align:left ;
+    justify-content:center;
+    left:70%;
+    bottom:70%;
+}
+
+#vooropleiding3 {
+    margin:0px;
+    position:absolute;
+    border-radius:25px;
+    background:#bbb;
+    padding:10px; 
+    width:300px;
+    height:40px; 
+    text-align:left ;
+    justify-content:center;
+    left:70%;
+    bottom:60%;
+}
+
+#meee {
+    position:absolute;
+    left:41.75%;
+    top:25%;
